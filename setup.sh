@@ -2,8 +2,8 @@
 # DREEXY 開発標準ツールチェーン 自動セットアップ（macOS）
 #
 # 新しいメンバーはこれを1回実行するだけ。手探りは不要。
-#   curl -fsSL https://raw.githubusercontent.com/DREEXY-git/ai-dev-platform/main/scripts/setup-dev-machine.sh | bash
-# もしくはリポジトリを clone して  bash scripts/setup-dev-machine.sh
+# 配布用の公開ミラー: DREEXY-git/dev-setup（このファイルが setup.sh として置かれる）
+#   curl -fsSL https://raw.githubusercontent.com/DREEXY-git/dev-setup/main/setup.sh | bash
 #
 # 管理者権限(sudo)・Homebrew は不要。Homebrew があればそちらを優先利用する。
 # 認証（gh login / Claude / Codex / MCP OAuth）は本人作業のため、最後に手順を案内する。
